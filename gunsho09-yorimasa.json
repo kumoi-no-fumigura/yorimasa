@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yorimasa",
  "yomi": "じゅさんみよりまさきょうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安末期",
+  "author": "源頼政（1104〜1180）",
+  "desc": "武人で歌人の源頼政の家集。俊成家の十首会や歌林苑の会、歌合などで詠んだ歌を四季・恋・雑に分けて収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -7779,6 +7784,6 @@
   "poems": 687,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
